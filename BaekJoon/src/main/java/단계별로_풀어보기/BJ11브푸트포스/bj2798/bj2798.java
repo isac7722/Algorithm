@@ -1,20 +1,25 @@
 package 단계별로_풀어보기.BJ11브푸트포스.bj2798;
 
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.IOException;
+import java.util.StringTokenizer;
 
 public class bj2798 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
-        Scanner in = new Scanner(System.in);
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-        int N = in.nextInt();
-        int M = in.nextInt();
+        int N = Integer.parseInt(st.nextToken());
+        int M = Integer.parseInt(st.nextToken());
 
         int[] arr = new int[N];
 
+        st = new StringTokenizer(br.readLine(), " ");
         for (int i = 0; i < N; i++) {
-            arr[i] = in.nextInt();
+            arr[i] = Integer.parseInt(st.nextToken());
         }
 
         int result = search(arr, N, M);
@@ -55,3 +60,6 @@ public class bj2798 {
         return result;
     }
 }
+
+/* 관련 링크 */
+/*https://st-lab.tistory.com/97*/

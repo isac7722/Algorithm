@@ -34,10 +34,10 @@ public class bj2231 {
         System.out.println(result);
     }
 }
-    
-    
-    
-    
+
+/* 관련 링크 */
+/* https://st-lab.tistory.com/98 */
+
     
     
     
