@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed26fa32-d3c9-476a-8af6-36bc2d7c9bd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BRONZE/bj2798/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BRONZE/bj2798/bj2798.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/단계별로_풀어보기/BJ11브푸트포스/bj2231/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/단계별로_풀어보기/BJ11브푸트포스/bj2231/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/단계별로_풀어보기/BJ11브푸트포스/bj2231/bj2231.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/단계별로_풀어보기/BJ11브푸트포스/bj2231/bj2231.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programmers/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programmers/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Programmers/.idea/gradle.xml" beforeDir="false" />
@@ -66,6 +63,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705019908184</updated>
-      <workItem from="1705019909300" duration="1809000" />
+      <workItem from="1705019909300" duration="7658000" />
     </task>
     <servers />
   </component>
